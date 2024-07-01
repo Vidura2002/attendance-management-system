@@ -1,0 +1,56 @@
+#topic{
+    font-weight: 600;
+    font-family: monospace;
+    text-decoration: underline;
+    font-size: 3vw;
+    
+}
+#new{
+
+    width: 20rem;
+    height: 5rem;
+    margin-top: 1rem;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 10px;
+    color:black;
+    font-weight: 600;
+}
+#remove{
+    width: 20rem;
+    height: 5rem;
+    margin-top: 1rem;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 10px;
+    color:black;
+    font-weight: 600;
+}
+#attend{
+    width: 20rem;
+    height: 5rem;
+    margin-top: 1rem;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 10px;
+    color:black;
+    font-weight: 600;
+}
+#base{
+    width: 20rem;
+    height: 5rem;
+    margin-top: 1rem;
+    background-color: antiquewhite;
+    border: 1px solid black;
+    border-radius: 10px;
+    color:black;
+    font-weight: 600;
+}
+#new:hover,#remove:hover,#attend:hover,#base:hover{
+    transform: scale(1.1,1.1);
+}
+#set{
+    display: grid;
+    justify-content: center;
+    
+}
